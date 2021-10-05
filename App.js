@@ -9,7 +9,8 @@ import TextInputAnimation from './src/TextInputAnimation';
 export default function App() {
   return (
     <View style={styles.container}>
-      <TextInputAnimation />
+      <TextInputAnimation/>
+  <View/>
     </View>
   );
 }
